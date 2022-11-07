@@ -1271,6 +1271,7 @@ input[type="range"] {
   input[type="range"]:focus {
     background: none; }
 
+input[type="time"],
 input[type="color"],
 input[type="number"],
 input[type="date"],
